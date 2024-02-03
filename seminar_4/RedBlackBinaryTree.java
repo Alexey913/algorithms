@@ -1,4 +1,4 @@
-public class BinaryTree<E extends Comparable<E>> {
+public class RedBlackBinaryTree<E extends Comparable<E>> {
 
     private Node root;
 
